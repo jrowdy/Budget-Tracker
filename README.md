@@ -5,12 +5,13 @@ The user will be able to add expenses and deposits to their budget with or witho
 Offline Functionality:
 
 
-Enter deposits offline
+--Enter deposits offline
 
-
-Enter expenses offline
-
+--Enter expenses offline
 
 When brought back online:
 
-Offline entries should be added to tracker
+--Offline entries should be added to tracker
+
+##Example (image was captured while offline)
+![image](https://user-images.githubusercontent.com/58674083/84439687-acf8f700-ac06-11ea-85f1-37e1cfdee207.png)
