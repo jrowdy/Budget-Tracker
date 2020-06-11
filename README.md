@@ -13,5 +13,6 @@ When brought back online:
 
 --Offline entries should be added to tracker
 
-##Example (image was captured while offline)
+## Example 
+Image was captured while offline
 ![image](https://user-images.githubusercontent.com/58674083/84439687-acf8f700-ac06-11ea-85f1-37e1cfdee207.png)
